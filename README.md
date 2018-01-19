@@ -2,7 +2,7 @@
 
 ## Description
 ```
-A brief description of your project
+An intra-web site for the employees of the District 18 office of the KY Division of Probation and Parole. The site is for staff members to communicate, to share compliments, and to seek assistance on different issues. 
 
 ```
 
